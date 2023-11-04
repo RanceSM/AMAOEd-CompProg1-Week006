@@ -1,2 +1,2 @@
-# AMAOEd-CompProg1-Week005
+# AMAOEd-CompProg1-Week006 (Laboratory Exercise 5)
 
