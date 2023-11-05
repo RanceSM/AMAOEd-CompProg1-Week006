@@ -1,6 +1,6 @@
 /* ****************************************************************
  * @author: RanceSM
- * @app name: LaboratoryExercise04
+ * @app name: LaboratoryExercise05
  * @app desc: (AMAoed) Computer Programming 1 laboratory exercise
  * ****************************************************************/
 
@@ -107,7 +107,6 @@ void problem3(){
     }
     
 }
-
 int main() {
     // ************************** TO DO **************************
     // Place your code logic after this comment line
@@ -118,6 +117,7 @@ int main() {
     // {
     //     problem2(i);
     // }
+    
     // Problem 3
     problem3();
 
